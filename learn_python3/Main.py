@@ -8,7 +8,7 @@ print("why " + likes_snakes)
 
 
 def likes_snakes(text):
-    print("This is inside the snakes function" + text)
+    print("This is inside the snakes function " + text)
 
 
 likes_snakes("Monkey")
