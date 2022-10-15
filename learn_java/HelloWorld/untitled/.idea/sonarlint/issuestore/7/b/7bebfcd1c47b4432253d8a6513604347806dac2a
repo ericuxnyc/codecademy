@@ -1,0 +1,12 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "dna2".(Ô™£Èşÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "dna1".(½Å™üÿÿÿÿ
+D
+java:S1481")Remove this unused "dna1" local variable.(½Å™üÿÿÿÿ
+D
+java:S1481")Remove this unused "dna2" local variable.(Ô™£Èşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í­î
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ª³ÇÌ
+V	java:S125"<This block of commented-out lines of code should be removed.(æÉûÿÿÿÿ
